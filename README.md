@@ -9,4 +9,4 @@ Download the code file - 'project2.ipynb' along with the two data files: 'projec
 When executing the notebook on your machine, ensure the following lines contain the correct path to the appropriate csv file.
 
 In Block #4
-df = pd.read_csv("/Users/lawsonlevin/ML/project1/data/project_adult.csv")
+- df = pd.read_csv("/Users/lawsonlevin/ML/project1/data/project_adult.csv")
